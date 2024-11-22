@@ -114,4 +114,3 @@ while True:
         break
     else:
         print("Invalid input. Please type 'yes' or 'no'.")
-asdasd
