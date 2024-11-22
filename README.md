@@ -47,7 +47,7 @@ pip install -r requirements.txt
 ├── main.py             # Main script
 ├── mnist_digit_classifier.h5  # Pre-trained model (if available)
 ├── logs/               # TensorBoard logs
-├── custom_images/      # Folder for custom test images
+├── custom_images      #custom test images
 └── README.md           # Project documentation
 ```
 
