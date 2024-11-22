@@ -21,7 +21,7 @@ Install required packages with:
 
 ```bash 
 pip install -r requirements.txt
-
+```
 ## Usage
 
 1. Clone the repository:
