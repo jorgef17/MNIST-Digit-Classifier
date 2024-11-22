@@ -1,6 +1,6 @@
 # MNIST Digit Classifier
 
-A robust implementation of a digit classification system using the MNIST dataset. The project provides options to train a new model, use an existing one, and test the model with custom images. It includes features like TensorBoard for monitoring training performance and early stopping for efficient model training.
+An implementation of a digit classification system using the MNIST dataset. The project provides options to train a new model, use an existing one, and test the model with custom images. It includes features such as TensorBoard to monitor training performance and early stopping for efficient model training.
 
 ## Features
 
