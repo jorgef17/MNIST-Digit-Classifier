@@ -34,7 +34,7 @@ pip install -r requirements.txt
 2. Run the program:
 
    ```bash
-   python main.py
+   python mnist_classifier.py
    ```
 
 3. Choose an option:
